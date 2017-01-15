@@ -44,6 +44,8 @@ gem 'font-awesome-sass', '~> 4.7.0'
 # Use hitb for table display
 gem 'hirb', '0.7.3'
 
+# gem devise for user memberships (authentication)
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
